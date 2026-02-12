@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Dropbox intended to ingest cloud file content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Dropbox",
-      "text": "A Subjective data source for Dropbox. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Dropbox intended to ingest cloud file content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_dropbox_datasource/icon.svg",
         "alt": "Dropbox icon"
